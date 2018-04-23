@@ -23,3 +23,4 @@
 #cookieChoiceInfo .cookie-choices-text{color:#000!important;margin:0 0 !important;bottom;font-size:10px;text-align:center}
 #cookieChoiceInfo .cookie-choices-button{color:#333!important;border:1px solid}
 .widget .widget-item-control a img{height:18px;width:18px}
+#Feed1 li,#Feed2 li{list-style-type:none;border-bottom:1px dashed #fff;background:#222;padding:8px}
