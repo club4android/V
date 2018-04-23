@@ -1,79 +1,26 @@
 #comment-post-message{border-top:1px solid #ccc;border-bottom:1px solid #ccc;padding:10px 0}
-.comment-body{font-style:italic}
-.comment-timestamp{font-size:small}
-.comments h4{text-align:center;margin:0 auto;font-weight:400;max-width:255px}
 .comments .avatar-image-container{background:url(https://cdn.rawgit.com/club4android/VariousRamblings/d6728d4806db89345f2c6968185fad26d3bd2669/anonymous.jpg);
   margin:0 15px 0 0;height:40px;width:40px;border-radius:20px;border:1px solid #fff;
   background-size:100% 100%;display:inline-block}
 .comments .avatar-image-container img{margin:0;padding:0;width:40px;height:40px;border-radius:20px}
 .comments .comments-content .comment:last-child{border-bottom:0;padding-bottom:5px}
 .content{margin:1px 0 -50px}
-.navbar{height:0!important}
-.gsc-branding-text,.gsc-branding-img{height:0}
-.post-outer{text-align:justify;margin:0 0 8px;padding:0}
-.mobile .region-inner.main-inner{margin:-10px 0 0}
-.widget h4{margin-bottom:4px!important}
-.Header h2{margin-bottom:0}
-.post-body h2{font-size:18px}
-#LinkList2{margin:0 -16px}
-#LinkList1{margin:-5px -15px 0}
-#HTML3 img{border:1px solid #fff;overflow:hidden}
 #HTML12{margin: 0 -10px}
-.mobile #LinkList2{margin:0}
-.mobile #LinkList1{margin:0}
-.mobile .widget.Header{margin:0!important}
-.column-center-inner, .main-inner .column-left-inner, .main-inner .column-right-inner {padding:0 0;}
 .tabs-inner{padding:0 0 0 8px !important}
-.tabs-inner .widget li{border:1px solid #555;margin:0 6px 5px}
-.tabs-inner .widget li a{border-top:2px solid transparent}
-.tabs-inner .widget li a:hover{border-top:2px solid #ea0}
-
 .footer-inner{padding:0}
-
-.mobile .status-msg-wrap{margin:0 auto}
-.quickedit img{height:18px!important;width:18px}
 .post-body li{padding:5px 0}
 .widget ul{padding:0}
 .post-body ul{padding-left:20px}
-
-
-#s-gooplus{background-image:url(https://cdn.rawgit.com/club4android/VariousRamblings/master/g+.png);width:32px;height:20px;margin-top:4px}
-#s-faclike{background-image:url(https://cdn.rawgit.com/club4android/VariousRamblings/master/like.png);width:75px;height:20px}
-
-.bubble{display:inline-block;position:relative;width:21px;height:23px;padding:0;margin:0 7px 1px 0;background:#fff;border-radius:3px;border:#ccc solid 1px;text-align:center;color:#666;bottom:9px}
-.bubble:after{content:&#39;position:absolute;border-style:solid;border-width:4px 4px 4px 0;border-color:transparent #fff;display:block;width:0;z-index:1;left:-4px;top:6px}
-.bubble:before{content:&#39;position:absolute;border-style:solid;border-width:4px 4px 4px 0;border-color:transparent #ccc;display:block;width:0;z-index:0;left:-5px;top:6px}
-.contact-form-email-message{max-width:620px}
-#NewsBar1 a{color:#c60}
-#Label1{}
-#Feed1 li,#Feed2 li{list-style-type:none;border-bottom:1px dashed #fff;background:#222;padding:8px}
-#LinkList1 ul,#LinkList2 ul,#PageList1 ul{text-align:center}
-#LinkList1 li,#LinkList2 li,#PageList1 li{list-style-type:none;display:inline-block;border:1px solid #444;padding:7px;background:#222}
-#LinkList1 a:hover,#LinkList2 a:hover,#PageList1 a:hover{color:#fff;text-decoration:none;border-top:2px solid #ea0;padding-top:9px}
-#LinkList1 a,#LinkList2 a,#PageList1 a{color:#fc9b02;text-transform:uppercase;font-weight:700}
-
 .label-size{border-left:1px solid #444;font-size:11px;margin:4px 0;padding:3px;display:inline-block;background:#222}
 .label-size a:hover{text-decoration:none;color:#fff;border-top:1px solid #666}
-
 .c4a-author{border-left:1px solid white;padding:8px}
 #Attribution1{display:none;padding:0}
-.adsbygoogle,.inline-adp{padding:0;text-align:center}
-.showpageNum,.showpage{margin:5px;border:1px solid #444;padding:7px 2px;background:#222}
-.showpageNum a,.showpage a{padding:7px 8px}
 .showpagePoint{padding:7px 10px}
 #blog-pager{text-align:center;padding:15px 0}
 .showpageOf{display:none!important}
-#blog-pager .pages{border:none}
-.home-link,#blog-pager-newer-link,#blog-pager-older-link{margin:5px;border:1px solid #444;padding:7px;background:#222;text-transform:uppercase;font-weight:700;text-decoration:none}
 .home-link:hover,#blog-pager-newer-link a:hover,#blog-pager-older-link a:hover{color:#fff;text-decoration:none!important;border-top:2px solid #ea0;padding-top:9px}
-.mobile .home-link{text-transform:none;border:none;padding:0}
-.mobile .home-link:hover{text-transform:none;border:none;padding:0}
-.mobile #blog-pager-newer-link,.mobile #blog-pager-older-link{background:#fa0}
-
 #cookieChoiceInfo{color:#000!important;background-color:rgba(238,238,238,0.8)!important;bottom:0;top:auto!important;padding:5px 0 2px}
 #cookieChoiceInfo .cookie-choices-text{color:#000!important;margin:0 0 !important;bottom;font-size:11px;text-align:center}
 #cookieChoiceInfo .cookie-choices-button{color:#333!important}
-#cookieChoiceInfo .cookie-choices-info{padding:0!important}
-#cookieChoiceDismiss{background:#fa0;border:1px solid}
-
+undefined#cookieChoiceDismiss{background:#fa0;border:1px solid}
 .widget .widget-item-control a img{height:18px;width:18px}
