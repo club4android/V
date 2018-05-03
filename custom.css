@@ -1,6 +1,5 @@
 #comment-post-message{border-top:1px solid #ccc;border-bottom:1px solid #ccc;padding:10px 0}
-.comments .avatar-image-container{background:url(https://cdn.rawgit.com/club4android/VariousRamblings/d6728d4806db89345f2c6968185fad26d3bd2669/anonymous.jpg);
-  margin:0 15px 0 0;height:40px;width:40px;border-radius:20px;border:1px solid #fff;
+.comments .avatar-image-container{margin:0 15px 0 0;height:40px;width:40px;border-radius:20px;border:1px solid #fff;
   background-size:100% 100%;display:inline-block}
 .comments .avatar-image-container img{margin:0;padding:0;width:40px;height:40px;border-radius:20px}
 .comments .comments-content .comment:last-child{border-bottom:0;padding-bottom:5px}
@@ -18,7 +17,6 @@
 .showpagePoint{padding:7px 10px}
 #blog-pager{text-align:center;padding:15px 0}
 .showpageOf{display:none!important}
-.home-link:hover,#blog-pager-newer-link a:hover,#blog-pager-older-link a:hover{color:#fff;text-decoration:none!important;border-top:2px solid #ea0;padding-top:9px}
-
+.home-link:hover,#blog-pager-newer-link a:hover,#blog-pager-older-link a:hover{color:#fff;text-decoration:none!important;border-top:2px solid #ea0;  padding-top:9px}
 .widget .widget-item-control a img{height:18px;width:18px}
 #Feed1 li,#Feed2 li{list-style-type:none;border-bottom:1px dashed #fff;background:#222;padding:8px}
